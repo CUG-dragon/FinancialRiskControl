@@ -826,9 +826,7 @@ Early stopping, best iteration is:
 </article>
   </div>
 
-    </div>
 
-  
 
 
 
