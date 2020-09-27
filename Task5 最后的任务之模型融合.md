@@ -224,7 +224,7 @@ Accuracy: 0.94 (+/- 0.04) [Stacking Classifier]
 <li>当然在比赛中将加权平均、stacking、blending等混用也是一种策略，可能会收获意想不到的效果哦！</li>
 </ul>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c577d6834b171d50c9e10fb8db72b94720bf32ab/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f323032303039313330313032323639382e706e67237069635f63656e746572"><img src="https://camo.githubusercontent.com/c577d6834b171d50c9e10fb8db72b94720bf32ab/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f323032303039313330313032323639382e706e67237069635f63656e746572" alt="logo.png" data-canonical-src="https://img-blog.csdnimg.cn/2020091301022698.png#pic_center" style="max-width:100%;"></a></p>
+
 </article>
  
 
